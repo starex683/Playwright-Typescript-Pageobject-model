@@ -1,9 +1,6 @@
 // Import playwright module
 import { test, expect } from '@playwright/test';
 
-/**
- * Author Testers Talk
- */
 test('Selecting date value in playwright', async ({ page }) => {
     // Go to URL
     await page.goto('https://jqueryui.com/datepicker/');
