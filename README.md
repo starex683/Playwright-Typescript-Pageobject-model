@@ -185,8 +185,8 @@ Example:
 ```properties
 BASE_URL=https://sauce-demo.myshopify.com
 
-EMAIL=your-email@example.com
-PASSWORD=your-password
+EMAIL=john@example.com
+PASSWORD=john123
 
 FIRST_NAME=John
 LAST_NAME=Doe
